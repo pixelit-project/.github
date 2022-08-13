@@ -1,4 +1,7 @@
-## Hi there 👋
+
+<p align="center"><img src="https://avatars.githubusercontent.com/u/111180868" width="100"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=pixelit-project&style=flat-square&color=blue" alt=""></p>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <!--
 
