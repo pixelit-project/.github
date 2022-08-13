@@ -4,7 +4,7 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=PixelIt&theme=dark"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=node-red-contrib-pixelit&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=PixelIt&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=node-red-contrib-pixelit&theme=tokyonight"/>
 
 </p>
 <!--
