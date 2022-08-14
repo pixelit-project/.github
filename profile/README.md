@@ -16,7 +16,12 @@
 <a href="https://github.com/pixelit-project/node-red-contrib-pixelit">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=node-red-contrib-pixelit&theme=tokyonight"/>
 </a>
+<a href="https://github.com/pixelit-project/ioBroker.pixelit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=ioBroker.pixelit&theme=tokyonight"/>
+</a>
 </p>
+
+
 <!--
 
 **Here are some ideas to get you started:**
