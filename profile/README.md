@@ -20,6 +20,18 @@
     Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 
+<p align="center">  
+     <a href="https://t.me/pixelitdisplay">
+        <img src="https://img.shields.io/endpoint?label=Telegram&style=for-the-badge&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fpixelitdisplay"/>
+    </a> 
+     <a href="https://github.com/pixelit-project/PixelIt/discussions">
+        <img src="https://img.shields.io/github/discussions/pixelit-project/PixelIt?&logo=github&label=GitHub%20Discussions&style=for-the-badge"/>
+    </a> 
+     <a href="https://discord.gg/JHE9P9zczW">
+        <img src="https://img.shields.io/discord/558849582377861122?logo=discord&label=Discrod&style=for-the-badge"/>
+    </a> 
+</p>
+
 <p align="center">
 <a href="https://github.com/pixelit-project/PixelIt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=PixelIt&theme=tokyonight"/>
@@ -31,6 +43,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=ioBroker.pixelit&theme=tokyonight"/>
 </a>
 </p>
+
 
 
 <!--
