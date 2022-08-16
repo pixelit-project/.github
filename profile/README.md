@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/111180868" width="150"/>
+    <img src="https://avatars.githubusercontent.com/u/111180868" width="200"/>
 </p>
 <p align="center">    
     <img src="https://img.shields.io/github/v/release/pixelit-project/pixelit?label=Pixelit&style=for-the-badge">
