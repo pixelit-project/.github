@@ -2,8 +2,19 @@
 <p align="center">
     <img src="https://avatars.githubusercontent.com/u/111180868" width="150"/>
 </p>
+<p align="center">    
+    <img src="https://img.shields.io/github/v/release/pixelit-project/pixelit?label=Pixelit&style=for-the-badge">
+    <img src="https://img.shields.io/github/v/release/pixelit-project/node-red-contrib-pixelit?label=Pixelit%20Node&style=for-the-badge">
+    <img src="https://img.shields.io/github/v/tag/pixelit-project/ioBroker.pixelit?label=Pixelit%20Iobroker&style=for-the-badge">    
+</p>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=pixelit-project&style=flat-square&color=blue" alt="">
+    <img src="https://komarev.com/ghpvc/?username=pixelit-project&style=for-the-badge&color=blue">   
+    <img src="https://img.shields.io/github/license/pixelit-project/pixelit?style=for-the-badge">
+</p>
+<p align="center">
+    <a href="https://pixelit-project.github.io/">
+        <img src="https://img.shields.io/static/v1?label=Documentation&message=online&color=blueviolet&style=for-the-badge"/>
+    </a> 
 </p>
 <h1 align="center">
     Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
