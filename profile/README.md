@@ -4,7 +4,7 @@
 </p>
 <p align="center">    
     <img src="https://img.shields.io/github/v/release/pixelit-project/pixelit?label=Pixelit&style=for-the-badge">
-    <img src="https://img.shields.io/github/v/release/pixelit-project/node-red-contrib-pixelit?label=Pixelit%20Node&style=for-the-badge">
+    <img src="https://img.shields.io/github/v/release/pixelit-project/node-red-contrib-pixelit?label=Pixelit%20Node-Red&style=for-the-badge">
     <img src="https://img.shields.io/github/v/tag/pixelit-project/ioBroker.pixelit?label=Pixelit%20Iobroker&style=for-the-badge">    
 </p>
 <p align="center">
