@@ -34,15 +34,18 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/pixelit-project/PixelIt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=PixelIt&theme=tokyonight"/>
-</a> 
-<a href="https://github.com/pixelit-project/node-red-contrib-pixelit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=node-red-contrib-pixelit&theme=tokyonight"/>
-</a>
-<a href="https://github.com/pixelit-project/ioBroker.pixelit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=ioBroker.pixelit&theme=tokyonight"/>
-</a>
+    <a href="https://github.com/pixelit-project/PixelIt">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=PixelIt&theme=tokyonight"/>
+    </a> 
+    <a href="https://github.com/pixelit-project/node-red-contrib-pixelit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=node-red-contrib-pixelit&theme=tokyonight"/>
+    </a>
+    <a href="https://github.com/pixelit-project/ioBroker.pixelit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=ioBroker.pixelit&theme=tokyonight"/>
+    </a>
+     <a href="https://github.com/pixelit-project/PixelIt.api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=PixelIt.api&theme=tokyonight"/>
+    </a>
 </p>
 
 
