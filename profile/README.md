@@ -37,7 +37,7 @@
     <a href="https://github.com/pixelit-project/PixelIt">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=PixelIt&theme=tokyonight"/>
     </a> 
-    <a href="docs">
+    <a href="https://github.com/pixelit-project/PixelIt.Docs">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=PixelIt.docs&theme=tokyonight"/>
     </a>
     <a href="https://github.com/pixelit-project/WebUi">
