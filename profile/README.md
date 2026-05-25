@@ -32,7 +32,7 @@
         <img src="https://img.shields.io/discord/1145731525996970025?logo=discord&label=Discrod&style=for-the-badge"/>
     </a> 
 </p>
-
+<!--
 <p align="center">
     <a href="https://github.com/pixelit-project/PixelIt">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=PixelIt&theme=tokyonight"/>
@@ -53,7 +53,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixelit-project&repo=PixelIt.api&theme=tokyonight"/>
     </a>
 </p>
-
+-->
 
 
 <!--
